@@ -1,0 +1,816 @@
+fileFormatVersion: 2
+guid: 6ff44c65030b5144685068294616dcfc
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 19110_DaQiao_Body_Cloth_01_High
+    100002: 19110_DaQiao_Body_Cloth_02_High
+    100004: 19110_DaQiao_Body_Leg_E_High
+    100006: 19110_DaQiao_Body_Leg_High
+    100008: 19110_DaQiao_Eye_gg_High
+    100010: 19110_DaQiao_Eye_L_High
+    100012: 19110_DaQiao_Eye_R_High
+    100014: 19110_DaQiao_Face_High
+    100016: 19110_DaQiao_Hair_01_High
+    100018: 19110_DaQiao_Hair_02_ps_High
+    100020: 19110_DaQiao_Hair_03_High
+    100022: 19110_DaQiao_JuanZou_High
+    100024: 19110_DaQiao_Show1
+    100026: 19110_DaQiao_Skin_01_High
+    100028: 19110_DaQiao_Skin_02_High
+    100030: 19110_DaQiao_Weapon_01_E_High
+    100032: 19110_DaQiao_Weapon_01_High
+    100034: 19110_DaQiao_Weapon_02_High
+    100036: 19110_DaQiao_Weapon_EF_High
+    100038: 19110_DaQiao_Wing_High
+    100040: Armature
+    100042: Bip001
+    100044: Bip001 Head
+    100046: Bip001 L Calf
+    100048: Bip001 L Clavicle
+    100050: Bip001 L Finger0
+    100052: Bip001 L Finger01
+    100054: Bip001 L Finger02
+    100056: Bip001 L Finger1
+    100058: Bip001 L Finger11
+    100060: Bip001 L Finger12
+    100062: Bip001 L Finger2
+    100064: Bip001 L Finger21
+    100066: Bip001 L Finger22
+    100068: Bip001 L Finger3
+    100070: Bip001 L Finger31
+    100072: Bip001 L Finger32
+    100074: Bip001 L Finger4
+    100076: Bip001 L Finger41
+    100078: Bip001 L Finger42
+    100080: Bip001 L Foot
+    100082: Bip001 L Forearm
+    100084: Bip001 L ForeTwist
+    100086: Bip001 L Hand
+    100088: Bip001 L Thigh
+    100090: Bip001 L Toe0
+    100092: Bip001 L UpperArm
+    100094: Bip001 LUpArmTwist
+    100096: Bip001 Neck
+    100098: Bip001 Pelvis
+    100100: Bip001 R Calf
+    100102: Bip001 R Clavicle
+    100104: Bip001 R Finger0
+    100106: Bip001 R Finger01
+    100108: Bip001 R Finger02
+    100110: Bip001 R Finger1
+    100112: Bip001 R Finger11
+    100114: Bip001 R Finger12
+    100116: Bip001 R Finger2
+    100118: Bip001 R Finger21
+    100120: Bip001 R Finger22
+    100122: Bip001 R Finger3
+    100124: Bip001 R Finger31
+    100126: Bip001 R Finger32
+    100128: Bip001 R Finger4
+    100130: Bip001 R Finger41
+    100132: Bip001 R Finger42
+    100134: Bip001 R Foot
+    100136: Bip001 R Forearm
+    100138: Bip001 R ForeTwist
+    100140: Bip001 R Hand
+    100142: Bip001 R Thigh
+    100144: Bip001 R Toe0
+    100146: Bip001 R UpperArm
+    100148: Bip001 RUpArmTwist
+    100150: Bip001 Spine
+    100152: Bip001 Spine1
+    100154: Bip001 Spine2
+    100156: Bone_Earring01
+    100158: Bone_Earring02
+    100160: Bone_Eye01
+    100162: Bone_Eye02
+    100164: Bone_Eye03
+    100166: Bone_Eye04
+    100168: Bone_Foot
+    100170: Bone_hair02
+    100172: Bone_hair03
+    100174: Bone_hair04
+    100176: Bone_hair05
+    100178: Bone_hair06
+    100180: Bone_hair07
+    100182: Bone_hair08
+    100184: Bone_hair09
+    100186: Bone_hair10
+    100188: Bone_hair11
+    100190: Bone_hair12
+    100192: Bone_hair13
+    100194: Bone_hair14
+    100196: Bone_hair15
+    100198: Bone_hair16
+    100200: Bone_hair17
+    100202: Bone_hair18
+    100204: Bone_hair19
+    100206: Bone_hair20
+    100208: Bone_hair21
+    100210: Bone_hair22
+    100212: Bone_hair23
+    100214: Bone_hair24
+    100216: Bone_hair25
+    100218: Bone_hair26
+    100220: Bone_hair27
+    100222: Bone_hair28
+    100224: Bone_hair29
+    100226: Bone_hair30
+    100228: Bone_hair31
+    100230: Bone_hair32
+    100232: Bone_hair33
+    100234: Bone_hair34
+    100236: Bone_hair35
+    100238: Bone_hair36
+    100240: Bone_hair37
+    100242: Bone_hair38
+    100244: Bone_hair39
+    100246: Bone_hair40
+    100248: Bone_hair41
+    100250: Bone_hair42
+    100252: Bone_hair43
+    100254: Bone_hair44
+    100256: Bone_hair46
+    100258: Bone_hair47
+    100260: Bone_hair49
+    100262: Bone_hair50
+    100264: Bone_hair55
+    100266: Bone_hair56
+    100268: Bone_hair57
+    100270: Bone_hair58
+    100272: Bone_hair59
+    100274: Bone_hair60
+    100276: Bone_hair61
+    100278: Bone_hair62
+    100280: Bone_hair63
+    100282: Bone_hair64
+    100284: Bone_hair65
+    100286: Bone_hair66
+    100288: Bone_hair67
+    100290: Bone_hair68
+    100292: Bone_hair69
+    100294: Bone_hair70
+    100296: Bone_hair71
+    100298: Bone_hair72
+    100300: Bone_hair73
+    100302: Bone_hair74
+    100304: Bone_hair75
+    100306: Bone_hair76
+    100308: Bone_hair77
+    100310: Bone_hair78
+    100312: Bone_hair79
+    100314: Bone_hair80
+    100316: Bone_hair81
+    100318: Bone_hair82
+    100320: Bone_Head01
+    100322: Bone_Head02
+    100324: Bone_Head03
+    100326: Bone_Head04
+    100328: Bone_Head05
+    100330: Bone_Head06
+    100332: Bone_Juanzhou01
+    100334: Bone_Juanzhou02
+    100336: Bone_L_PeiJian009
+    100338: Bone_L_PeiJian01
+    100340: Bone_L_PeiJian010
+    100342: Bone_L_PeiJian011
+    100344: Bone_L_PeiJian012
+    100346: Bone_L_PeiJian02
+    100348: Bone_L_PeiJian03
+    100350: Bone_L_PeiJian06
+    100352: Bone_L_PeiJian07
+    100354: Bone_L_PeiJian08
+    100356: Bone_LUpArmTwist
+    100358: Bone_other01
+    100360: Bone_other02
+    100362: Bone_other03
+    100364: Bone_other04
+    100366: Bone_other05
+    100368: Bone_other06
+    100370: Bone_other07
+    100372: Bone_other08
+    100374: Bone_other09
+    100376: Bone_other10
+    100378: Bone_other11
+    100380: Bone_other12
+    100382: Bone_other13
+    100384: Bone_other14
+    100386: Bone_other15
+    100388: Bone_other16
+    100390: Bone_other17
+    100392: Bone_other18
+    100394: Bone_R_PeiJian01
+    100396: Bone_R_PeiJian02
+    100398: Bone_R_PeiJian03
+    100400: Bone_R_PeiJian04
+    100402: Bone_R_PeiJian05
+    100404: Bone_R_PeiJian06
+    100406: Bone_RUpArmTwist
+    100408: Bone_Skirt01
+    100410: Bone_Skirt02
+    100412: Bone_Skirt03
+    100414: Bone_Skirt04
+    100416: Bone_Skirt05
+    100418: Bone_Skirt06
+    100420: Bone_Skirt07
+    100422: Bone_Skirt08
+    100424: Bone_Skirt09
+    100426: Bone_Skirt10
+    100428: Bone_Skirt11
+    100430: Bone_Skirt12
+    100432: Bone_Skirt13
+    100434: Bone_Skirt14
+    100436: Bone_Skirt15
+    100438: Bone_Skirt16
+    100440: Bone_Skirt17
+    100442: Bone_Skirt18
+    100444: Bone_Skirt19
+    100446: Bone_Skirt20
+    100448: Bone_Skirt21
+    100450: Bone_Skirt22
+    100452: Bone_Skirt23
+    100454: Bone_Skirt24
+    100456: Bone_Skirt25
+    100458: Bone_Skirt26
+    100460: Bone_Skirt27
+    100462: Bone_Skirt28
+    100464: Bone_Skirt29
+    100466: Bone_Skirt30
+    100468: Bone_Skirt31
+    100470: Bone_Skirt32
+    100472: Bone_Skirt33
+    100474: Bone_Skirt34
+    100476: Bone_Skirt35
+    100478: Bone_Skirt36
+    100480: Bone_wing01
+    100482: Bone_wing02
+    100484: Bone_wing03
+    100486: Bone_wing04
+    100488: Bone_wing05
+    100490: Bone_wing06
+    100492: Bone_wing07
+    100494: Bone_wing08
+    100496: Bone_wing09
+    100498: Camera
+    100500: Directional Light
+    100502: EF_idle_left
+    100504: feiji_2
+    100506: feiji_lizi_01
+    100508: feiji_lizi_01 (1)
+    100510: Light
+    100512: liusha
+    100514: Particle System
+    100516: Point Light(2)
+    100518: //RootNode
+    400000: 19110_DaQiao_Body_Cloth_01_High
+    400002: 19110_DaQiao_Body_Cloth_02_High
+    400004: 19110_DaQiao_Body_Leg_E_High
+    400006: 19110_DaQiao_Body_Leg_High
+    400008: 19110_DaQiao_Eye_gg_High
+    400010: 19110_DaQiao_Eye_L_High
+    400012: 19110_DaQiao_Eye_R_High
+    400014: 19110_DaQiao_Face_High
+    400016: 19110_DaQiao_Hair_01_High
+    400018: 19110_DaQiao_Hair_02_ps_High
+    400020: 19110_DaQiao_Hair_03_High
+    400022: 19110_DaQiao_JuanZou_High
+    400024: 19110_DaQiao_Show1
+    400026: 19110_DaQiao_Skin_01_High
+    400028: 19110_DaQiao_Skin_02_High
+    400030: 19110_DaQiao_Weapon_01_E_High
+    400032: 19110_DaQiao_Weapon_01_High
+    400034: 19110_DaQiao_Weapon_02_High
+    400036: 19110_DaQiao_Weapon_EF_High
+    400038: 19110_DaQiao_Wing_High
+    400040: Armature
+    400042: Bip001
+    400044: Bip001 Head
+    400046: Bip001 L Calf
+    400048: Bip001 L Clavicle
+    400050: Bip001 L Finger0
+    400052: Bip001 L Finger01
+    400054: Bip001 L Finger02
+    400056: Bip001 L Finger1
+    400058: Bip001 L Finger11
+    400060: Bip001 L Finger12
+    400062: Bip001 L Finger2
+    400064: Bip001 L Finger21
+    400066: Bip001 L Finger22
+    400068: Bip001 L Finger3
+    400070: Bip001 L Finger31
+    400072: Bip001 L Finger32
+    400074: Bip001 L Finger4
+    400076: Bip001 L Finger41
+    400078: Bip001 L Finger42
+    400080: Bip001 L Foot
+    400082: Bip001 L Forearm
+    400084: Bip001 L ForeTwist
+    400086: Bip001 L Hand
+    400088: Bip001 L Thigh
+    400090: Bip001 L Toe0
+    400092: Bip001 L UpperArm
+    400094: Bip001 LUpArmTwist
+    400096: Bip001 Neck
+    400098: Bip001 Pelvis
+    400100: Bip001 R Calf
+    400102: Bip001 R Clavicle
+    400104: Bip001 R Finger0
+    400106: Bip001 R Finger01
+    400108: Bip001 R Finger02
+    400110: Bip001 R Finger1
+    400112: Bip001 R Finger11
+    400114: Bip001 R Finger12
+    400116: Bip001 R Finger2
+    400118: Bip001 R Finger21
+    400120: Bip001 R Finger22
+    400122: Bip001 R Finger3
+    400124: Bip001 R Finger31
+    400126: Bip001 R Finger32
+    400128: Bip001 R Finger4
+    400130: Bip001 R Finger41
+    400132: Bip001 R Finger42
+    400134: Bip001 R Foot
+    400136: Bip001 R Forearm
+    400138: Bip001 R ForeTwist
+    400140: Bip001 R Hand
+    400142: Bip001 R Thigh
+    400144: Bip001 R Toe0
+    400146: Bip001 R UpperArm
+    400148: Bip001 RUpArmTwist
+    400150: Bip001 Spine
+    400152: Bip001 Spine1
+    400154: Bip001 Spine2
+    400156: Bone_Earring01
+    400158: Bone_Earring02
+    400160: Bone_Eye01
+    400162: Bone_Eye02
+    400164: Bone_Eye03
+    400166: Bone_Eye04
+    400168: Bone_Foot
+    400170: Bone_hair02
+    400172: Bone_hair03
+    400174: Bone_hair04
+    400176: Bone_hair05
+    400178: Bone_hair06
+    400180: Bone_hair07
+    400182: Bone_hair08
+    400184: Bone_hair09
+    400186: Bone_hair10
+    400188: Bone_hair11
+    400190: Bone_hair12
+    400192: Bone_hair13
+    400194: Bone_hair14
+    400196: Bone_hair15
+    400198: Bone_hair16
+    400200: Bone_hair17
+    400202: Bone_hair18
+    400204: Bone_hair19
+    400206: Bone_hair20
+    400208: Bone_hair21
+    400210: Bone_hair22
+    400212: Bone_hair23
+    400214: Bone_hair24
+    400216: Bone_hair25
+    400218: Bone_hair26
+    400220: Bone_hair27
+    400222: Bone_hair28
+    400224: Bone_hair29
+    400226: Bone_hair30
+    400228: Bone_hair31
+    400230: Bone_hair32
+    400232: Bone_hair33
+    400234: Bone_hair34
+    400236: Bone_hair35
+    400238: Bone_hair36
+    400240: Bone_hair37
+    400242: Bone_hair38
+    400244: Bone_hair39
+    400246: Bone_hair40
+    400248: Bone_hair41
+    400250: Bone_hair42
+    400252: Bone_hair43
+    400254: Bone_hair44
+    400256: Bone_hair46
+    400258: Bone_hair47
+    400260: Bone_hair49
+    400262: Bone_hair50
+    400264: Bone_hair55
+    400266: Bone_hair56
+    400268: Bone_hair57
+    400270: Bone_hair58
+    400272: Bone_hair59
+    400274: Bone_hair60
+    400276: Bone_hair61
+    400278: Bone_hair62
+    400280: Bone_hair63
+    400282: Bone_hair64
+    400284: Bone_hair65
+    400286: Bone_hair66
+    400288: Bone_hair67
+    400290: Bone_hair68
+    400292: Bone_hair69
+    400294: Bone_hair70
+    400296: Bone_hair71
+    400298: Bone_hair72
+    400300: Bone_hair73
+    400302: Bone_hair74
+    400304: Bone_hair75
+    400306: Bone_hair76
+    400308: Bone_hair77
+    400310: Bone_hair78
+    400312: Bone_hair79
+    400314: Bone_hair80
+    400316: Bone_hair81
+    400318: Bone_hair82
+    400320: Bone_Head01
+    400322: Bone_Head02
+    400324: Bone_Head03
+    400326: Bone_Head04
+    400328: Bone_Head05
+    400330: Bone_Head06
+    400332: Bone_Juanzhou01
+    400334: Bone_Juanzhou02
+    400336: Bone_L_PeiJian009
+    400338: Bone_L_PeiJian01
+    400340: Bone_L_PeiJian010
+    400342: Bone_L_PeiJian011
+    400344: Bone_L_PeiJian012
+    400346: Bone_L_PeiJian02
+    400348: Bone_L_PeiJian03
+    400350: Bone_L_PeiJian06
+    400352: Bone_L_PeiJian07
+    400354: Bone_L_PeiJian08
+    400356: Bone_LUpArmTwist
+    400358: Bone_other01
+    400360: Bone_other02
+    400362: Bone_other03
+    400364: Bone_other04
+    400366: Bone_other05
+    400368: Bone_other06
+    400370: Bone_other07
+    400372: Bone_other08
+    400374: Bone_other09
+    400376: Bone_other10
+    400378: Bone_other11
+    400380: Bone_other12
+    400382: Bone_other13
+    400384: Bone_other14
+    400386: Bone_other15
+    400388: Bone_other16
+    400390: Bone_other17
+    400392: Bone_other18
+    400394: Bone_R_PeiJian01
+    400396: Bone_R_PeiJian02
+    400398: Bone_R_PeiJian03
+    400400: Bone_R_PeiJian04
+    400402: Bone_R_PeiJian05
+    400404: Bone_R_PeiJian06
+    400406: Bone_RUpArmTwist
+    400408: Bone_Skirt01
+    400410: Bone_Skirt02
+    400412: Bone_Skirt03
+    400414: Bone_Skirt04
+    400416: Bone_Skirt05
+    400418: Bone_Skirt06
+    400420: Bone_Skirt07
+    400422: Bone_Skirt08
+    400424: Bone_Skirt09
+    400426: Bone_Skirt10
+    400428: Bone_Skirt11
+    400430: Bone_Skirt12
+    400432: Bone_Skirt13
+    400434: Bone_Skirt14
+    400436: Bone_Skirt15
+    400438: Bone_Skirt16
+    400440: Bone_Skirt17
+    400442: Bone_Skirt18
+    400444: Bone_Skirt19
+    400446: Bone_Skirt20
+    400448: Bone_Skirt21
+    400450: Bone_Skirt22
+    400452: Bone_Skirt23
+    400454: Bone_Skirt24
+    400456: Bone_Skirt25
+    400458: Bone_Skirt26
+    400460: Bone_Skirt27
+    400462: Bone_Skirt28
+    400464: Bone_Skirt29
+    400466: Bone_Skirt30
+    400468: Bone_Skirt31
+    400470: Bone_Skirt32
+    400472: Bone_Skirt33
+    400474: Bone_Skirt34
+    400476: Bone_Skirt35
+    400478: Bone_Skirt36
+    400480: Bone_wing01
+    400482: Bone_wing02
+    400484: Bone_wing03
+    400486: Bone_wing04
+    400488: Bone_wing05
+    400490: Bone_wing06
+    400492: Bone_wing07
+    400494: Bone_wing08
+    400496: Bone_wing09
+    400498: Camera
+    400500: Directional Light
+    400502: EF_idle_left
+    400504: feiji_2
+    400506: feiji_lizi_01
+    400508: feiji_lizi_01 (1)
+    400510: Light
+    400512: liusha
+    400514: Particle System
+    400516: Point Light(2)
+    400518: //RootNode
+    2000000: Camera
+    2100000: 19110_DaQiao_Body01_ShowVeryHigh
+    2100002: 19110_DaQiao_Body02_ShowVeryHigh
+    2100004: 19110_DaQiao_Body_Leg_E_ShowVeryHigh
+    2100006: 19110_DaQiao_Body_Leg_ShowVeryHigh
+    2100008: 19110_DaQiao_Eye_ShowVeryHigh
+    2100010: 19110_DaQiao_Face_a_ShowVeryHigh
+    2100012: 19110_DaQiao_Face_ShowVeryHigh
+    2100014: 19110_DaQiao_Hair01_ShowVeryHigh
+    2100016: 19110_DaQiao_Hair02_ps_EF_ShowVeryHigh
+    2100018: 19110_DaQiao_Hair03_ShowVeryHigh
+    2100020: 19110_DaQiao_JuanZou_ShowVeryHigh
+    2100022: 19110_DaQiao_Skin_ShowVeryHigh
+    2100024: 19110_DaQiao_Skin_02_ShowVeryHigh
+    2100026: 19110_DaQiao_Weapon_01_E_ShowVeryHigh
+    2100028: 19110_DaQiao_Weapon_01_ShowVeryHigh
+    2100030: 19110_DaQiao_Weapon_02_ShowVeryHigh
+    2100032: 19110_DaQiao_Weapon_EF_ShowVeryHigh
+    2100034: 19110_DaQiao_Wing_ShowVeryHigh
+    2100036: EF_MJ_Lobby_19109_DaQiao_mat_032
+    2300000: liusha
+    3300000: liusha
+    4300000: 19110_DaQiao_Body_Cloth_01_High
+    4300002: 19110_DaQiao_Body_Cloth_02_High
+    4300004: 19110_DaQiao_Body_Leg_E_High
+    4300006: 19110_DaQiao_Body_Leg_High
+    4300008: 19110_DaQiao_Eye_L_High
+    4300010: 19110_DaQiao_Eye_R_High
+    4300012: 19110_DaQiao_Eye_gg_High
+    4300014: 19110_DaQiao_Face_High
+    4300016: 19110_DaQiao_Hair_01_High
+    4300018: 19110_DaQiao_Hair_02_ps_High
+    4300020: 19110_DaQiao_Hair_03_High
+    4300022: 19110_DaQiao_JuanZou_High
+    4300024: 19110_DaQiao_Skin_01_High
+    4300026: 19110_DaQiao_Skin_02_High
+    4300028: 19110_DaQiao_Weapon_01_E_High
+    4300030: 19110_DaQiao_Weapon_01_High
+    4300032: 19110_DaQiao_Weapon_02_High
+    4300034: 19110_DaQiao_Weapon_EF_High
+    4300036: 19110_DaQiao_Wing_High
+    4300038: liusha
+    7400000: Armature|Come|Base Layer
+    7400002: Armature|Idleshow|Base Layer
+    7400004: Armature|Armature|Come|Base Layer
+    7400006: Armature|Armature|Idleshow|Base Layer
+    7400008: Armature|Armature|Standby|Base Layer
+    9500000: //RootNode
+    13700000: 19110_DaQiao_Body_Cloth_01_High
+    13700002: 19110_DaQiao_Body_Cloth_02_High
+    13700004: 19110_DaQiao_Body_Leg_E_High
+    13700006: 19110_DaQiao_Body_Leg_High
+    13700008: 19110_DaQiao_Eye_gg_High
+    13700010: 19110_DaQiao_Eye_L_High
+    13700012: 19110_DaQiao_Eye_R_High
+    13700014: 19110_DaQiao_Face_High
+    13700016: 19110_DaQiao_Hair_01_High
+    13700018: 19110_DaQiao_Hair_02_ps_High
+    13700020: 19110_DaQiao_Hair_03_High
+    13700022: 19110_DaQiao_JuanZou_High
+    13700024: 19110_DaQiao_Skin_01_High
+    13700026: 19110_DaQiao_Skin_02_High
+    13700028: 19110_DaQiao_Weapon_01_E_High
+    13700030: 19110_DaQiao_Weapon_01_High
+    13700032: 19110_DaQiao_Weapon_02_High
+    13700034: 19110_DaQiao_Weapon_EF_High
+    13700036: 19110_DaQiao_Wing_High
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Armature|Come|Base Layer
+      takeName: Armature|Come|Base Layer
+      firstFrame: 0
+      lastFrame: 69
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Idleshow|Base Layer
+      takeName: Armature|Idleshow|Base Layer
+      firstFrame: 0
+      lastFrame: 177
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Armature|Come|Base Layer
+      takeName: Armature|Armature|Come|Base Layer
+      firstFrame: 0
+      lastFrame: 69
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Armature|Idleshow|Base Layer
+      takeName: Armature|Armature|Idleshow|Base Layer
+      firstFrame: 0
+      lastFrame: 177
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Armature|Standby|Base Layer
+      takeName: Armature|Armature|Standby|Base Layer
+      firstFrame: 0
+      lastFrame: 126
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

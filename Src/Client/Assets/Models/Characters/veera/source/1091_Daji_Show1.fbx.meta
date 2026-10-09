@@ -1,0 +1,700 @@
+fileFormatVersion: 2
+guid: ce9bccf6ee4ea8b4e8de7c03a24277dc
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 01
+    100002: 02
+    100004: 1
+    100006: 1 (1)
+    100008: 1091_DaJi_Body_High
+    100010: 1091_DaJi_Face_High
+    100012: 1091_DaJi_Hair_High
+    100014: //RootNode
+    100016: 1091_Daji_Show1
+    100018: ani
+    100020: ani 1
+    100022: bai_xin
+    100024: baiban
+    100026: baodiuan
+    100028: beijing
+    100030: beijing_glow
+    100032: bg_black
+    100034: bianfu
+    100036: Bip001
+    100038: Bip001 Head
+    100040: Bip001 L Calf
+    100042: Bip001 L Clavicle
+    100044: Bip001 L Finger0
+    100046: Bip001 L Finger01
+    100048: Bip001 L Finger02
+    100050: Bip001 L Finger1
+    100052: Bip001 L Finger11
+    100054: Bip001 L Finger12
+    100056: Bip001 L Finger2
+    100058: Bip001 L Finger21
+    100060: Bip001 L Finger22
+    100062: Bip001 L Finger3
+    100064: Bip001 L Finger31
+    100066: Bip001 L Finger32
+    100068: Bip001 L Finger4
+    100070: Bip001 L Finger41
+    100072: Bip001 L Finger42
+    100074: Bip001 L Foot
+    100076: Bip001 L Forearm
+    100078: Bip001 L ForeTwist
+    100080: Bip001 L ForeTwist1
+    100082: Bip001 L Hand
+    100084: Bip001 L Thigh
+    100086: Bip001 L Toe0
+    100088: Bip001 L UpperArm
+    100090: Bip001 Neck
+    100092: Bip001 Pelvis
+    100094: Bip001 R Calf
+    100096: Bip001 R Clavicle
+    100098: Bip001 R Finger0
+    100100: Bip001 R Finger01
+    100102: Bip001 R Finger02
+    100104: Bip001 R Finger1
+    100106: Bip001 R Finger11
+    100108: Bip001 R Finger12
+    100110: Bip001 R Finger2
+    100112: Bip001 R Finger21
+    100114: Bip001 R Finger22
+    100116: Bip001 R Finger3
+    100118: Bip001 R Finger31
+    100120: Bip001 R Finger32
+    100122: Bip001 R Finger4
+    100124: Bip001 R Finger41
+    100126: Bip001 R Finger42
+    100128: Bip001 R Foot
+    100130: Bip001 R Forearm
+    100132: Bip001 R ForeTwist
+    100134: Bip001 R ForeTwist1
+    100136: Bip001 R Hand
+    100138: Bip001 R Thigh
+    100140: Bip001 R Toe0
+    100142: Bip001 R UpperArm
+    100144: Bip001 Spine
+    100146: Bip001 Spine1
+    100148: Bip001 Spine2
+    100150: BN_head_01
+    100152: BN_head_04
+    100154: BN_head_047
+    100156: BN_head_06
+    100158: BN_head_08
+    100160: BN_head_09
+    100162: BN_head_10
+    100164: BN_head_11
+    100166: BN_head_12
+    100168: BN_head_13
+    100170: BN_head_14
+    100172: BN_head_15
+    100174: BN_head_16
+    100176: BN_head_17
+    100178: BN_head_18
+    100180: BN_head_19
+    100182: BN_head_20
+    100184: BN_head_21
+    100186: BN_head_22
+    100188: BN_head_23
+    100190: BN_head_24
+    100192: BN_head_25
+    100194: BN_head_29
+    100196: BN_head_30
+    100198: BN_head_31
+    100200: BN_head_32
+    100202: BN_head_33
+    100204: BN_head_34
+    100206: BN_head_35
+    100208: BN_head_38
+    100210: BN_head_39
+    100212: BN_head_40
+    100214: BN_head_41
+    100216: BN_head_42
+    100218: BN_head_43
+    100220: BN_head_44
+    100222: BN_head_45
+    100224: BN_head_46
+    100226: BN_head_root
+    100228: Bone010
+    100230: Bone012
+    100232: Bone012(mirrored)
+    100234: Bone013
+    100236: Bone013(mirrored)
+    100238: Bone015
+    100240: Bone015(mirrored)
+    100242: Bone017
+    100244: Bone017(mirrored)
+    100246: Bone_erduo_L
+    100248: Bone_erduo_R
+    100250: Bone_Hair01
+    100252: Bone_Hair02
+    100254: Bone_Hair03
+    100256: Bone_Hair04
+    100258: Bone_Hair05
+    100260: Bone_Hair06
+    100262: Bone_Hair07
+    100264: Bone_Hair08
+    100266: Bone_Hair09
+    100268: Bone_Hair10
+    100270: Bone_Hair11
+    100272: Bone_Hair12
+    100274: Bone_Hair13
+    100276: Bone_Hair14
+    100278: Bone_Hair15
+    100280: Bone_Hair16
+    100282: Bone_Hair17
+    100284: Bone_Hair18
+    100286: Bone_Hair19
+    100288: Bone_Hair20
+    100290: Bone_Hair21
+    100292: Bone_Kuijia01
+    100294: Bone_Kuijia02
+    100296: Bone_Skirt01
+    100298: Bone_Skirt02
+    100300: Bone_Skirt03
+    100302: Bone_Skirt04
+    100304: Bone_Skirt05
+    100306: Bone_Skirt06
+    100308: Bone_Skirt07
+    100310: Bone_Skirt08
+    100312: Bone_Skirt09
+    100314: Bone_Skirt10
+    100316: Bone_St01
+    100318: Bone_St02
+    100320: Bone_St03
+    100322: Bone_Tail01
+    100324: Bone_Tail02
+    100326: Bone_Tail03
+    100328: Bone_Tail04
+    100330: Bone_Tail05
+    100332: Bone_Tail06
+    100334: Bone_Tail07
+    100336: Bone_Wings_L01
+    100338: Bone_Wings_L02
+    100340: Bone_Wings_L03
+    100342: Bone_Wings_L04
+    100344: Bone_Wings_L05
+    100346: Bone_Wings_L06
+    100348: Bone_Wings_L07
+    100350: Bone_Wings_L08
+    100352: Bone_Wings_L09
+    100354: Bone_Wings_L10
+    100356: Bone_Wings_L11
+    100358: Bone_Wings_R01
+    100360: Bone_Wings_R01 1
+    100362: Bone_Wings_R02
+    100364: Bone_Wings_R03
+    100366: Bone_Wings_R04
+    100368: Bone_Wings_R05
+    100370: Bone_Wings_R06
+    100372: Bone_Wings_R07
+    100374: Bone_Wings_R08
+    100376: Bone_Wings_R09
+    100378: Bone_Wings_R10
+    100380: Bone_Xiong01
+    100382: Bone_Xiong02
+    100384: Bone_yanpi_L01
+    100386: Bone_yanpi_L02
+    100388: Bone_yanpi_L03
+    100390: Bone_yanpi_L04
+    100392: Bone_yanpi_L05
+    100394: Bone_yanpi_L06
+    100396: Bone_yanpi_L07
+    100398: Bone_yanpi_L08
+    100400: Bone_yanpi_R01
+    100402: Bone_yanpi_R02
+    100404: Bone_yanpi_R03
+    100406: Bone_yanpi_R04
+    100408: Bone_yanpi_R05
+    100410: Bone_yanpi_R06
+    100412: Bone_yanpi_R07
+    100414: Bone_yanpi_R08
+    100416: Bone_Zhoubu_Skin_L_01
+    100418: Bone_Zhoubu_Skin_R_02
+    100420: chibang
+    100422: come on
+    100424: come on_01_smoke
+    100426: come on_02
+    100428: come_02
+    100430: come_on
+    100432: Dummy001
+    100434: EF_109_Daji_Skill_02_mod
+    100436: EF_109_Daji_Skill_02_mod (1)
+    100438: eff
+    100440: eff 1
+    100442: eff 2
+    100444: end2(Clone)
+    100446: end2_canliu
+    100448: end_glow(Clone)
+    100450: end_shine
+    100452: GameObject
+    100454: glow
+    100456: glow02 (1)
+    100458: glow02 (2)
+    100460: glow02 (3)
+    100462: glow03
+    100464: glow_add_01
+    100466: glow_di_an (3)
+    100468: glwo
+    100470: glwo (1)
+    100472: glwo 1
+    100474: hand_glow
+    100476: hand_lizi
+    100478: huan_mod_01
+    100480: in_wind02
+    100482: in_wind02 (1)
+    100484: in_wind02 (2)
+    100486: in_wind0_nei_01
+    100488: lizi02
+    100490: lizi_02
+    100492: lizi_03
+    100494: lizi_03 1
+    100496: lizi_04
+    100498: LUODI(Clone)
+    100500: niuqu
+    100502: p_color_glow
+    100504: p_guangban_01
+    100506: Particle System
+    100508: Particle System (10)
+    100510: Particle System (6)
+    100512: Particle System (7)
+    100514: Particle System (8)
+    100516: Particle System 1
+    100518: Particle System 2
+    100520: Particle System 3
+    100522: smoke
+    100524: smoke 1
+    100526: smoke 2
+    100528: smoke02
+    100530: smoke_alp_dadi_01
+    100532: smoke_alp_dadi_02
+    100534: smoke_trail
+    100536: star (2)
+    100538: start
+    100540: start 1
+    100542: taoxin_lizi
+    100544: taoxin_tuowei
+    100546: trail02
+    100548: trail02 1
+    100550: trail02_1
+    100552: trail02_1 1
+    100554: tuowei1
+    100556: tuowei2
+    100558: weiyi
+    100560: weiyi 1
+    100562: xin
+    100564: xin_glow
+    100566: yanwu
+    100568: yinghua_01_1
+    400000: 01
+    400002: 02
+    400004: 1
+    400006: 1 (1)
+    400008: 1091_DaJi_Body_High
+    400010: 1091_DaJi_Face_High
+    400012: 1091_DaJi_Hair_High
+    400014: //RootNode
+    400016: 1091_Daji_Show1
+    400018: ani
+    400020: ani 1
+    400022: bai_xin
+    400024: baiban
+    400026: baodiuan
+    400028: beijing
+    400030: beijing_glow
+    400032: bg_black
+    400034: bianfu
+    400036: Bip001
+    400038: Bip001 Head
+    400040: Bip001 L Calf
+    400042: Bip001 L Clavicle
+    400044: Bip001 L Finger0
+    400046: Bip001 L Finger01
+    400048: Bip001 L Finger02
+    400050: Bip001 L Finger1
+    400052: Bip001 L Finger11
+    400054: Bip001 L Finger12
+    400056: Bip001 L Finger2
+    400058: Bip001 L Finger21
+    400060: Bip001 L Finger22
+    400062: Bip001 L Finger3
+    400064: Bip001 L Finger31
+    400066: Bip001 L Finger32
+    400068: Bip001 L Finger4
+    400070: Bip001 L Finger41
+    400072: Bip001 L Finger42
+    400074: Bip001 L Foot
+    400076: Bip001 L Forearm
+    400078: Bip001 L ForeTwist
+    400080: Bip001 L ForeTwist1
+    400082: Bip001 L Hand
+    400084: Bip001 L Thigh
+    400086: Bip001 L Toe0
+    400088: Bip001 L UpperArm
+    400090: Bip001 Neck
+    400092: Bip001 Pelvis
+    400094: Bip001 R Calf
+    400096: Bip001 R Clavicle
+    400098: Bip001 R Finger0
+    400100: Bip001 R Finger01
+    400102: Bip001 R Finger02
+    400104: Bip001 R Finger1
+    400106: Bip001 R Finger11
+    400108: Bip001 R Finger12
+    400110: Bip001 R Finger2
+    400112: Bip001 R Finger21
+    400114: Bip001 R Finger22
+    400116: Bip001 R Finger3
+    400118: Bip001 R Finger31
+    400120: Bip001 R Finger32
+    400122: Bip001 R Finger4
+    400124: Bip001 R Finger41
+    400126: Bip001 R Finger42
+    400128: Bip001 R Foot
+    400130: Bip001 R Forearm
+    400132: Bip001 R ForeTwist
+    400134: Bip001 R ForeTwist1
+    400136: Bip001 R Hand
+    400138: Bip001 R Thigh
+    400140: Bip001 R Toe0
+    400142: Bip001 R UpperArm
+    400144: Bip001 Spine
+    400146: Bip001 Spine1
+    400148: Bip001 Spine2
+    400150: BN_head_01
+    400152: BN_head_04
+    400154: BN_head_047
+    400156: BN_head_06
+    400158: BN_head_08
+    400160: BN_head_09
+    400162: BN_head_10
+    400164: BN_head_11
+    400166: BN_head_12
+    400168: BN_head_13
+    400170: BN_head_14
+    400172: BN_head_15
+    400174: BN_head_16
+    400176: BN_head_17
+    400178: BN_head_18
+    400180: BN_head_19
+    400182: BN_head_20
+    400184: BN_head_21
+    400186: BN_head_22
+    400188: BN_head_23
+    400190: BN_head_24
+    400192: BN_head_25
+    400194: BN_head_29
+    400196: BN_head_30
+    400198: BN_head_31
+    400200: BN_head_32
+    400202: BN_head_33
+    400204: BN_head_34
+    400206: BN_head_35
+    400208: BN_head_38
+    400210: BN_head_39
+    400212: BN_head_40
+    400214: BN_head_41
+    400216: BN_head_42
+    400218: BN_head_43
+    400220: BN_head_44
+    400222: BN_head_45
+    400224: BN_head_46
+    400226: BN_head_root
+    400228: Bone010
+    400230: Bone012
+    400232: Bone012(mirrored)
+    400234: Bone013
+    400236: Bone013(mirrored)
+    400238: Bone015
+    400240: Bone015(mirrored)
+    400242: Bone017
+    400244: Bone017(mirrored)
+    400246: Bone_erduo_L
+    400248: Bone_erduo_R
+    400250: Bone_Hair01
+    400252: Bone_Hair02
+    400254: Bone_Hair03
+    400256: Bone_Hair04
+    400258: Bone_Hair05
+    400260: Bone_Hair06
+    400262: Bone_Hair07
+    400264: Bone_Hair08
+    400266: Bone_Hair09
+    400268: Bone_Hair10
+    400270: Bone_Hair11
+    400272: Bone_Hair12
+    400274: Bone_Hair13
+    400276: Bone_Hair14
+    400278: Bone_Hair15
+    400280: Bone_Hair16
+    400282: Bone_Hair17
+    400284: Bone_Hair18
+    400286: Bone_Hair19
+    400288: Bone_Hair20
+    400290: Bone_Hair21
+    400292: Bone_Kuijia01
+    400294: Bone_Kuijia02
+    400296: Bone_Skirt01
+    400298: Bone_Skirt02
+    400300: Bone_Skirt03
+    400302: Bone_Skirt04
+    400304: Bone_Skirt05
+    400306: Bone_Skirt06
+    400308: Bone_Skirt07
+    400310: Bone_Skirt08
+    400312: Bone_Skirt09
+    400314: Bone_Skirt10
+    400316: Bone_St01
+    400318: Bone_St02
+    400320: Bone_St03
+    400322: Bone_Tail01
+    400324: Bone_Tail02
+    400326: Bone_Tail03
+    400328: Bone_Tail04
+    400330: Bone_Tail05
+    400332: Bone_Tail06
+    400334: Bone_Tail07
+    400336: Bone_Wings_L01
+    400338: Bone_Wings_L02
+    400340: Bone_Wings_L03
+    400342: Bone_Wings_L04
+    400344: Bone_Wings_L05
+    400346: Bone_Wings_L06
+    400348: Bone_Wings_L07
+    400350: Bone_Wings_L08
+    400352: Bone_Wings_L09
+    400354: Bone_Wings_L10
+    400356: Bone_Wings_L11
+    400358: Bone_Wings_R01
+    400360: Bone_Wings_R01 1
+    400362: Bone_Wings_R02
+    400364: Bone_Wings_R03
+    400366: Bone_Wings_R04
+    400368: Bone_Wings_R05
+    400370: Bone_Wings_R06
+    400372: Bone_Wings_R07
+    400374: Bone_Wings_R08
+    400376: Bone_Wings_R09
+    400378: Bone_Wings_R10
+    400380: Bone_Xiong01
+    400382: Bone_Xiong02
+    400384: Bone_yanpi_L01
+    400386: Bone_yanpi_L02
+    400388: Bone_yanpi_L03
+    400390: Bone_yanpi_L04
+    400392: Bone_yanpi_L05
+    400394: Bone_yanpi_L06
+    400396: Bone_yanpi_L07
+    400398: Bone_yanpi_L08
+    400400: Bone_yanpi_R01
+    400402: Bone_yanpi_R02
+    400404: Bone_yanpi_R03
+    400406: Bone_yanpi_R04
+    400408: Bone_yanpi_R05
+    400410: Bone_yanpi_R06
+    400412: Bone_yanpi_R07
+    400414: Bone_yanpi_R08
+    400416: Bone_Zhoubu_Skin_L_01
+    400418: Bone_Zhoubu_Skin_R_02
+    400420: chibang
+    400422: come on
+    400424: come on_01_smoke
+    400426: come on_02
+    400428: come_02
+    400430: come_on
+    400432: Dummy001
+    400434: EF_109_Daji_Skill_02_mod
+    400436: EF_109_Daji_Skill_02_mod (1)
+    400438: eff
+    400440: eff 1
+    400442: eff 2
+    400444: end2(Clone)
+    400446: end2_canliu
+    400448: end_glow(Clone)
+    400450: end_shine
+    400452: GameObject
+    400454: glow
+    400456: glow02 (1)
+    400458: glow02 (2)
+    400460: glow02 (3)
+    400462: glow03
+    400464: glow_add_01
+    400466: glow_di_an (3)
+    400468: glwo
+    400470: glwo (1)
+    400472: glwo 1
+    400474: hand_glow
+    400476: hand_lizi
+    400478: huan_mod_01
+    400480: in_wind02
+    400482: in_wind02 (1)
+    400484: in_wind02 (2)
+    400486: in_wind0_nei_01
+    400488: lizi02
+    400490: lizi_02
+    400492: lizi_03
+    400494: lizi_03 1
+    400496: lizi_04
+    400498: LUODI(Clone)
+    400500: niuqu
+    400502: p_color_glow
+    400504: p_guangban_01
+    400506: Particle System
+    400508: Particle System (10)
+    400510: Particle System (6)
+    400512: Particle System (7)
+    400514: Particle System (8)
+    400516: Particle System 1
+    400518: Particle System 2
+    400520: Particle System 3
+    400522: smoke
+    400524: smoke 1
+    400526: smoke 2
+    400528: smoke02
+    400530: smoke_alp_dadi_01
+    400532: smoke_alp_dadi_02
+    400534: smoke_trail
+    400536: star (2)
+    400538: start
+    400540: start 1
+    400542: taoxin_lizi
+    400544: taoxin_tuowei
+    400546: trail02
+    400548: trail02 1
+    400550: trail02_1
+    400552: trail02_1 1
+    400554: tuowei1
+    400556: tuowei2
+    400558: weiyi
+    400560: weiyi 1
+    400562: xin
+    400564: xin_glow
+    400566: yanwu
+    400568: yinghua_01_1
+    2100000: 1091_DaJi_ShowVeryHigh
+    2100002: 1091_DaJi_Skin_ShowVeryHigh
+    2100004: 1091_DaJi_Face_ShowVeryHigh
+    2100006: 1091_DaJi_Hair_ShowVeryHigh
+    2100008: EF_12006_Lobby_xxy_end2_01
+    2100010: EF_12006_Lobby_xxy_end2_canliu
+    2100012: EF_lxq_10910_daji_fresnel501
+    2100014: EF_lxq_10910_daji_fresnel502
+    2100016: EF_lxq_10910_daji_fresnel
+    2100018: EF_lxq_10910_daji_trail507
+    2300000: end2(Clone)
+    2300002: end2_canliu
+    2300004: trail02
+    2300006: trail02 1
+    2300008: trail02_1
+    2300010: trail02_1 1
+    3300000: end2(Clone)
+    3300002: end2_canliu
+    3300004: trail02
+    3300006: trail02 1
+    3300008: trail02_1
+    3300010: trail02_1 1
+    4300000: 1091_DaJi_Body_High
+    4300002: 1091_DaJi_Face_High
+    4300004: 1091_DaJi_Hair_High
+    4300006: end2(Clone)
+    4300008: end2_canliu
+    4300010: EF_109_Daji_Skill_02_mod
+    4300012: EF_109_Daji_Skill_02_mod (1)
+    4300014: trail02
+    4300016: trail02_1
+    4300018: trail02
+    4300020: trail02_1
+    7400000: Idleshow
+    7400002: Come
+    7400004: Standby
+    9500000: //RootNode
+    13700000: 1091_DaJi_Body_High
+    13700002: 1091_DaJi_Face_High
+    13700004: 1091_DaJi_Hair_High
+    13700006: EF_109_Daji_Skill_02_mod
+    13700008: EF_109_Daji_Skill_02_mod (1)
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

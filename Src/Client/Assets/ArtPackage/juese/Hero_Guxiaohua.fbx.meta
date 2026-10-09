@@ -1,0 +1,1966 @@
+fileFormatVersion: 2
+guid: 502122582d0083d4c87a93c47ce0e9a8
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: Bip01
+  - first:
+      1: 100002
+    second: Bip01 Footsteps01
+  - first:
+      1: 100004
+    second: Bip01 Head01
+  - first:
+      1: 100006
+    second: Bip01 L Calf01
+  - first:
+      1: 100008
+    second: Bip01 L Clavicle01
+  - first:
+      1: 100010
+    second: Bip01 L Finger05
+  - first:
+      1: 100012
+    second: Bip01 L Finger06
+  - first:
+      1: 100014
+    second: Bip01 L Finger07
+  - first:
+      1: 100016
+    second: Bip01 L Finger08
+  - first:
+      1: 100018
+    second: Bip01 L Finger09
+  - first:
+      1: 100020
+    second: Bip01 L Finger10
+  - first:
+      1: 100022
+    second: Bip01 L Finger13
+  - first:
+      1: 100024
+    second: Bip01 L Finger14
+  - first:
+      1: 100026
+    second: Bip01 L Finger15
+  - first:
+      1: 100028
+    second: Bip01 L Finger16
+  - first:
+      1: 100030
+    second: Bip01 L Finger17
+  - first:
+      1: 100032
+    second: Bip01 L Finger18
+  - first:
+      1: 100034
+    second: Bip01 L Finger19
+  - first:
+      1: 100036
+    second: Bip01 L Finger20
+  - first:
+      1: 100038
+    second: Bip01 L Finger23
+  - first:
+      1: 100040
+    second: Bip01 L Foot01
+  - first:
+      1: 100042
+    second: Bip01 L Forearm01
+  - first:
+      1: 100044
+    second: Bip01 L Hand01
+  - first:
+      1: 100046
+    second: Bip01 L Thigh01
+  - first:
+      1: 100048
+    second: Bip01 L Toe01
+  - first:
+      1: 100050
+    second: Bip01 L UpperArm01
+  - first:
+      1: 100052
+    second: Bip01 Neck01
+  - first:
+      1: 100054
+    second: Bip01 Pelvis01
+  - first:
+      1: 100056
+    second: Bip01 R Calf01
+  - first:
+      1: 100058
+    second: Bip01 R Clavicle01
+  - first:
+      1: 100060
+    second: Bip01 R Finger05
+  - first:
+      1: 100062
+    second: Bip01 R Finger06
+  - first:
+      1: 100064
+    second: Bip01 R Finger07
+  - first:
+      1: 100066
+    second: Bip01 R Finger08
+  - first:
+      1: 100068
+    second: Bip01 R Finger09
+  - first:
+      1: 100070
+    second: Bip01 R Finger10
+  - first:
+      1: 100072
+    second: Bip01 R Finger13
+  - first:
+      1: 100074
+    second: Bip01 R Finger14
+  - first:
+      1: 100076
+    second: Bip01 R Finger15
+  - first:
+      1: 100078
+    second: Bip01 R Finger16
+  - first:
+      1: 100080
+    second: Bip01 R Finger17
+  - first:
+      1: 100082
+    second: Bip01 R Finger18
+  - first:
+      1: 100084
+    second: Bip01 R Finger19
+  - first:
+      1: 100086
+    second: Bip01 R Finger20
+  - first:
+      1: 100088
+    second: Bip01 R Finger23
+  - first:
+      1: 100090
+    second: Bip01 R Foot01
+  - first:
+      1: 100092
+    second: Bip01 R Forearm01
+  - first:
+      1: 100094
+    second: Bip01 R Hand01
+  - first:
+      1: 100096
+    second: Bip01 R Thigh01
+  - first:
+      1: 100098
+    second: Bip01 R Toe01
+  - first:
+      1: 100100
+    second: Bip01 R UpperArm01
+  - first:
+      1: 100102
+    second: Bip01 Spine03
+  - first:
+      1: 100104
+    second: Bip01 Spine04
+  - first:
+      1: 100106
+    second: Bip01 Spine05
+  - first:
+      1: 100108
+    second: Bone080
+  - first:
+      1: 100110
+    second: Bone081
+  - first:
+      1: 100112
+    second: Bone082
+  - first:
+      1: 100114
+    second: Bone083
+  - first:
+      1: 100116
+    second: Bone084
+  - first:
+      1: 100118
+    second: Bone084(mirrored)
+  - first:
+      1: 100120
+    second: Bone085
+  - first:
+      1: 100122
+    second: Bone085(mirrored)
+  - first:
+      1: 100124
+    second: Bone086
+  - first:
+      1: 100126
+    second: Bone086(mirrored)
+  - first:
+      1: 100128
+    second: Bone087
+  - first:
+      1: 100130
+    second: Bone087(mirrored)
+  - first:
+      1: 100132
+    second: Bone088
+  - first:
+      1: 100134
+    second: Bone088(mirrored)
+  - first:
+      1: 100136
+    second: Bone089
+  - first:
+      1: 100138
+    second: Bone089(mirrored)
+  - first:
+      1: 100140
+    second: Bone090
+  - first:
+      1: 100142
+    second: Bone091
+  - first:
+      1: 100144
+    second: Bone092
+  - first:
+      1: 100146
+    second: Bone094
+  - first:
+      1: 100148
+    second: Bone095
+  - first:
+      1: 100150
+    second: Bone097
+  - first:
+      1: 100152
+    second: Bone43
+  - first:
+      1: 100154
+    second: Bone44
+  - first:
+      1: 100156
+    second: Bone45
+  - first:
+      1: 100158
+    second: Bone47
+  - first:
+      1: 100160
+    second: Bone47(mirrored)
+  - first:
+      1: 100162
+    second: Bone48
+  - first:
+      1: 100164
+    second: Bone48(mirrored)
+  - first:
+      1: 100166
+    second: Bone49
+  - first:
+      1: 100168
+    second: Bone49(mirrored)
+  - first:
+      1: 100170
+    second: Bone79
+  - first:
+      1: 100172
+    second: Bone79(mirrored)
+  - first:
+      1: 100174
+    second: Dummy002
+  - first:
+      1: 100176
+    second: //RootNode
+  - first:
+      1: 100178
+    second: Hero_Guxiaohua
+  - first:
+      1: 100180
+    second: Hero_Guxiaohua_Body
+  - first:
+      1: 100182
+    second: Hero_Guxiaohua_Body_0
+  - first:
+      1: 100184
+    second: Hero_Guxiaohua_Face
+  - first:
+      1: 100186
+    second: Hero_Guxiaohua_Face_0
+  - first:
+      1: 100188
+    second: Hero_Guxiaohua_Hair
+  - first:
+      1: 100190
+    second: Hero_Guxiaohua_Hair_0
+  - first:
+      1: 100192
+    second: node_back
+  - first:
+      1: 100194
+    second: node_Calf_left
+  - first:
+      1: 100196
+    second: node_chest
+  - first:
+      1: 100198
+    second: node_fix
+  - first:
+      1: 100200
+    second: node_foot_left
+  - first:
+      1: 100202
+    second: node_foot_point
+  - first:
+      1: 100204
+    second: node_foot_right
+  - first:
+      1: 100206
+    second: node_hand_left
+  - first:
+      1: 100208
+    second: node_hand_right
+  - first:
+      1: 100210
+    second: node_head
+  - first:
+      1: 100212
+    second: node_head_point
+  - first:
+      1: 100214
+    second: node_helm
+  - first:
+      1: 100216
+    second: node_lock
+  - first:
+      1: 100218
+    second: node_special_1
+  - first:
+      1: 100220
+    second: node_step_left
+  - first:
+      1: 100222
+    second: node_step_right
+  - first:
+      1: 100224
+    second: node_weapon_left
+  - first:
+      1: 100226
+    second: node_weapon_right
+  - first:
+      4: 400000
+    second: Bip01
+  - first:
+      4: 400002
+    second: Bip01 Footsteps01
+  - first:
+      4: 400004
+    second: Bip01 Head01
+  - first:
+      4: 400006
+    second: Bip01 L Calf01
+  - first:
+      4: 400008
+    second: Bip01 L Clavicle01
+  - first:
+      4: 400010
+    second: Bip01 L Finger05
+  - first:
+      4: 400012
+    second: Bip01 L Finger06
+  - first:
+      4: 400014
+    second: Bip01 L Finger07
+  - first:
+      4: 400016
+    second: Bip01 L Finger08
+  - first:
+      4: 400018
+    second: Bip01 L Finger09
+  - first:
+      4: 400020
+    second: Bip01 L Finger10
+  - first:
+      4: 400022
+    second: Bip01 L Finger13
+  - first:
+      4: 400024
+    second: Bip01 L Finger14
+  - first:
+      4: 400026
+    second: Bip01 L Finger15
+  - first:
+      4: 400028
+    second: Bip01 L Finger16
+  - first:
+      4: 400030
+    second: Bip01 L Finger17
+  - first:
+      4: 400032
+    second: Bip01 L Finger18
+  - first:
+      4: 400034
+    second: Bip01 L Finger19
+  - first:
+      4: 400036
+    second: Bip01 L Finger20
+  - first:
+      4: 400038
+    second: Bip01 L Finger23
+  - first:
+      4: 400040
+    second: Bip01 L Foot01
+  - first:
+      4: 400042
+    second: Bip01 L Forearm01
+  - first:
+      4: 400044
+    second: Bip01 L Hand01
+  - first:
+      4: 400046
+    second: Bip01 L Thigh01
+  - first:
+      4: 400048
+    second: Bip01 L Toe01
+  - first:
+      4: 400050
+    second: Bip01 L UpperArm01
+  - first:
+      4: 400052
+    second: Bip01 Neck01
+  - first:
+      4: 400054
+    second: Bip01 Pelvis01
+  - first:
+      4: 400056
+    second: Bip01 R Calf01
+  - first:
+      4: 400058
+    second: Bip01 R Clavicle01
+  - first:
+      4: 400060
+    second: Bip01 R Finger05
+  - first:
+      4: 400062
+    second: Bip01 R Finger06
+  - first:
+      4: 400064
+    second: Bip01 R Finger07
+  - first:
+      4: 400066
+    second: Bip01 R Finger08
+  - first:
+      4: 400068
+    second: Bip01 R Finger09
+  - first:
+      4: 400070
+    second: Bip01 R Finger10
+  - first:
+      4: 400072
+    second: Bip01 R Finger13
+  - first:
+      4: 400074
+    second: Bip01 R Finger14
+  - first:
+      4: 400076
+    second: Bip01 R Finger15
+  - first:
+      4: 400078
+    second: Bip01 R Finger16
+  - first:
+      4: 400080
+    second: Bip01 R Finger17
+  - first:
+      4: 400082
+    second: Bip01 R Finger18
+  - first:
+      4: 400084
+    second: Bip01 R Finger19
+  - first:
+      4: 400086
+    second: Bip01 R Finger20
+  - first:
+      4: 400088
+    second: Bip01 R Finger23
+  - first:
+      4: 400090
+    second: Bip01 R Foot01
+  - first:
+      4: 400092
+    second: Bip01 R Forearm01
+  - first:
+      4: 400094
+    second: Bip01 R Hand01
+  - first:
+      4: 400096
+    second: Bip01 R Thigh01
+  - first:
+      4: 400098
+    second: Bip01 R Toe01
+  - first:
+      4: 400100
+    second: Bip01 R UpperArm01
+  - first:
+      4: 400102
+    second: Bip01 Spine03
+  - first:
+      4: 400104
+    second: Bip01 Spine04
+  - first:
+      4: 400106
+    second: Bip01 Spine05
+  - first:
+      4: 400108
+    second: Bone080
+  - first:
+      4: 400110
+    second: Bone081
+  - first:
+      4: 400112
+    second: Bone082
+  - first:
+      4: 400114
+    second: Bone083
+  - first:
+      4: 400116
+    second: Bone084
+  - first:
+      4: 400118
+    second: Bone084(mirrored)
+  - first:
+      4: 400120
+    second: Bone085
+  - first:
+      4: 400122
+    second: Bone085(mirrored)
+  - first:
+      4: 400124
+    second: Bone086
+  - first:
+      4: 400126
+    second: Bone086(mirrored)
+  - first:
+      4: 400128
+    second: Bone087
+  - first:
+      4: 400130
+    second: Bone087(mirrored)
+  - first:
+      4: 400132
+    second: Bone088
+  - first:
+      4: 400134
+    second: Bone088(mirrored)
+  - first:
+      4: 400136
+    second: Bone089
+  - first:
+      4: 400138
+    second: Bone089(mirrored)
+  - first:
+      4: 400140
+    second: Bone090
+  - first:
+      4: 400142
+    second: Bone091
+  - first:
+      4: 400144
+    second: Bone092
+  - first:
+      4: 400146
+    second: Bone094
+  - first:
+      4: 400148
+    second: Bone095
+  - first:
+      4: 400150
+    second: Bone097
+  - first:
+      4: 400152
+    second: Bone43
+  - first:
+      4: 400154
+    second: Bone44
+  - first:
+      4: 400156
+    second: Bone45
+  - first:
+      4: 400158
+    second: Bone47
+  - first:
+      4: 400160
+    second: Bone47(mirrored)
+  - first:
+      4: 400162
+    second: Bone48
+  - first:
+      4: 400164
+    second: Bone48(mirrored)
+  - first:
+      4: 400166
+    second: Bone49
+  - first:
+      4: 400168
+    second: Bone49(mirrored)
+  - first:
+      4: 400170
+    second: Bone79
+  - first:
+      4: 400172
+    second: Bone79(mirrored)
+  - first:
+      4: 400174
+    second: Dummy002
+  - first:
+      4: 400176
+    second: //RootNode
+  - first:
+      4: 400178
+    second: Hero_Guxiaohua
+  - first:
+      4: 400180
+    second: Hero_Guxiaohua_Body
+  - first:
+      4: 400182
+    second: Hero_Guxiaohua_Body_0
+  - first:
+      4: 400184
+    second: Hero_Guxiaohua_Face
+  - first:
+      4: 400186
+    second: Hero_Guxiaohua_Face_0
+  - first:
+      4: 400188
+    second: Hero_Guxiaohua_Hair
+  - first:
+      4: 400190
+    second: Hero_Guxiaohua_Hair_0
+  - first:
+      4: 400192
+    second: node_back
+  - first:
+      4: 400194
+    second: node_Calf_left
+  - first:
+      4: 400196
+    second: node_chest
+  - first:
+      4: 400198
+    second: node_fix
+  - first:
+      4: 400200
+    second: node_foot_left
+  - first:
+      4: 400202
+    second: node_foot_point
+  - first:
+      4: 400204
+    second: node_foot_right
+  - first:
+      4: 400206
+    second: node_hand_left
+  - first:
+      4: 400208
+    second: node_hand_right
+  - first:
+      4: 400210
+    second: node_head
+  - first:
+      4: 400212
+    second: node_head_point
+  - first:
+      4: 400214
+    second: node_helm
+  - first:
+      4: 400216
+    second: node_lock
+  - first:
+      4: 400218
+    second: node_special_1
+  - first:
+      4: 400220
+    second: node_step_left
+  - first:
+      4: 400222
+    second: node_step_right
+  - first:
+      4: 400224
+    second: node_weapon_left
+  - first:
+      4: 400226
+    second: node_weapon_right
+  - first:
+      43: 4300000
+    second: Hero_Guxiaohua_Face_0
+  - first:
+      43: 4300002
+    second: Hero_Guxiaohua_Hair_0
+  - first:
+      43: 4300004
+    second: Hero_Guxiaohua_Body_0
+  - first:
+      74: 7400000
+    second: Guxiaohua_Idle_00_loop
+  - first:
+      74: 7400002
+    second: Guxiaohua_NormalAttack_01
+  - first:
+      74: 7400004
+    second: Guxiaohua_Run_loop
+  - first:
+      74: 7400006
+    second: Guxiaohua_RunStop
+  - first:
+      74: 7400008
+    second: Guxiaohua_Escape_loop
+  - first:
+      74: 7400010
+    second: Guxiaohua_NormalAttack_02
+  - first:
+      74: 7400012
+    second: Guxiaohua_NormalAttack_03
+  - first:
+      74: 7400014
+    second: Guxiaohua_NormalAttack_04
+  - first:
+      74: 7400016
+    second: Guxiaohua_NormalAttack_05
+  - first:
+      74: 7400018
+    second: Guxiaohua_SkillAttack_01_01
+  - first:
+      74: 7400020
+    second: Guxiaohua_SkillAttack_02_01
+  - first:
+      74: 7400022
+    second: Guxiaohua_SkillAttack_03_01
+  - first:
+      74: 7400024
+    second: Guxiaohua_UniquePose
+  - first:
+      74: 7400026
+    second: Guxiaohua_UniqueSkill_01
+  - first:
+      74: 7400028
+    second: Guxiaohua_UniqueSkill_02
+  - first:
+      74: 7400030
+    second: Guxiaohua_UniqueSkill_03
+  - first:
+      74: 7400032
+    second: Guxiaohua_UniqueSkill_04
+  - first:
+      74: 7400034
+    second: Guxiaohua_UniqueSkill_05
+  - first:
+      74: 7400036
+    second: Guxiaohua_HurtLand_Normal
+  - first:
+      74: 7400038
+    second: Guxiaohua_HurtLand_Left
+  - first:
+      74: 7400040
+    second: Guxiaohua_HurtFly_Right
+  - first:
+      74: 7400042
+    second: Guxiaohua_FlyUp
+  - first:
+      74: 7400044
+    second: Guxiaohua_FlyAway
+  - first:
+      74: 7400046
+    second: Guxiaohua_Dead
+  - first:
+      74: 7400048
+    second: Guxiaohua_HurtFly_Left
+  - first:
+      74: 7400050
+    second: Guxiaohua_HurtFly_Normal
+  - first:
+      74: 7400052
+    second: Guxiaohua_AreaMove_1
+  - first:
+      74: 7400054
+    second: Guxiaohua_AreaMove_2
+  - first:
+      74: 7400056
+    second: Guxiaohua_Faint_loop
+  - first:
+      74: 7400058
+    second: Guxiaohua_ShowPose
+  - first:
+      74: 7400060
+    second: Guxiaohua_Born
+  - first:
+      74: 7400062
+    second: Guxiaohua_Win
+  - first:
+      74: 7400064
+    second: Guxiaohua_Idle_01
+  - first:
+      74: 7400066
+    second: Guxiaohua_Idle_02
+  - first:
+      74: 7400068
+    second: Guxiaohua_DodgeFront
+  - first:
+      74: 7400070
+    second: Guxiaohua_SkillAttack_00_01
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: Hero_Guxiaohua_Body_0
+  - first:
+      137: 13700002
+    second: Hero_Guxiaohua_Face_0
+  - first:
+      137: 13700004
+    second: Hero_Guxiaohua_Hair_0
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Guxiaohua_Idle_00_loop
+      takeName: Guxiaohua_Idle_00_loop
+      internalID: 7400000
+      firstFrame: 0
+      lastFrame: 61
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Guxiaohua_NormalAttack_01
+      takeName: Guxiaohua_NormalAttack_01
+      internalID: 7400002
+      firstFrame: 0
+      lastFrame: 61
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Guxiaohua_Run_loop
+      takeName: Guxiaohua_Run_loop
+      internalID: 7400004
+      firstFrame: 0
+      lastFrame: 61
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Guxiaohua_RunStop
+      takeName: Guxiaohua_RunStop
+      internalID: 7400006
+      firstFrame: 0
+      lastFrame: 61
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Guxiaohua_Escape_loop
+      takeName: Guxiaohua_Escape_loop
+      internalID: 7400008
+      firstFrame: 0
+      lastFrame: 61
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Guxiaohua_NormalAttack_02
+      takeName: Guxiaohua_NormalAttack_02
+      internalID: 7400010
+      firstFrame: 0
+      lastFrame: 61
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Guxiaohua_NormalAttack_03
+      takeName: Guxiaohua_NormalAttack_03
+      internalID: 7400012
+      firstFrame: 0
+      lastFrame: 61
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Guxiaohua_NormalAttack_04
+      takeName: Guxiaohua_NormalAttack_04
+      internalID: 7400014
+      firstFrame: 0
+      lastFrame: 61
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Guxiaohua_NormalAttack_05
+      takeName: Guxiaohua_NormalAttack_05
+      internalID: 7400016
+      firstFrame: 0
+      lastFrame: 61
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Guxiaohua_SkillAttack_01_01
+      takeName: Guxiaohua_SkillAttack_01_01
+      internalID: 7400018
+      firstFrame: 0
+      lastFrame: 85
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Guxiaohua_SkillAttack_02_01
+      takeName: Guxiaohua_SkillAttack_02_01
+      internalID: 7400020
+      firstFrame: 0
+      lastFrame: 85
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Guxiaohua_SkillAttack_03_01
+      takeName: Guxiaohua_SkillAttack_03_01
+      internalID: 7400022
+      firstFrame: 0
+      lastFrame: 113
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Guxiaohua_UniquePose
+      takeName: Guxiaohua_UniquePose
+      internalID: 7400024
+      firstFrame: 0
+      lastFrame: 113
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Guxiaohua_UniqueSkill_01
+      takeName: Guxiaohua_UniqueSkill_01
+      internalID: 7400026
+      firstFrame: 0
+      lastFrame: 113
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Guxiaohua_UniqueSkill_02
+      takeName: Guxiaohua_UniqueSkill_02
+      internalID: 7400028
+      firstFrame: 0
+      lastFrame: 113
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Guxiaohua_UniqueSkill_03
+      takeName: Guxiaohua_UniqueSkill_03
+      internalID: 7400030
+      firstFrame: 0
+      lastFrame: 113
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Guxiaohua_UniqueSkill_04
+      takeName: Guxiaohua_UniqueSkill_04
+      internalID: 7400032
+      firstFrame: 0
+      lastFrame: 113
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Guxiaohua_UniqueSkill_05
+      takeName: Guxiaohua_UniqueSkill_05
+      internalID: 7400034
+      firstFrame: 0
+      lastFrame: 113
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Guxiaohua_HurtLand_Normal
+      takeName: Guxiaohua_HurtLand_Normal
+      internalID: 7400036
+      firstFrame: 0
+      lastFrame: 113
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Guxiaohua_HurtLand_Left
+      takeName: Guxiaohua_HurtLand_Left
+      internalID: 7400038
+      firstFrame: 0
+      lastFrame: 113
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Guxiaohua_HurtFly_Right
+      takeName: Guxiaohua_HurtFly_Right
+      internalID: 7400040
+      firstFrame: 0
+      lastFrame: 113
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Guxiaohua_FlyUp
+      takeName: Guxiaohua_FlyUp
+      internalID: 7400042
+      firstFrame: 0
+      lastFrame: 113
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Guxiaohua_FlyAway
+      takeName: Guxiaohua_FlyAway
+      internalID: 7400044
+      firstFrame: 0
+      lastFrame: 113
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Guxiaohua_Dead
+      takeName: Guxiaohua_Dead
+      internalID: 7400046
+      firstFrame: 0
+      lastFrame: 113
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Guxiaohua_HurtFly_Left
+      takeName: Guxiaohua_HurtFly_Left
+      internalID: 7400048
+      firstFrame: 0
+      lastFrame: 113
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Guxiaohua_HurtFly_Normal
+      takeName: Guxiaohua_HurtFly_Normal
+      internalID: 7400050
+      firstFrame: 0
+      lastFrame: 113
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Guxiaohua_AreaMove_1
+      takeName: Guxiaohua_AreaMove_1
+      internalID: 7400052
+      firstFrame: 0
+      lastFrame: 113
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Guxiaohua_AreaMove_2
+      takeName: Guxiaohua_AreaMove_2
+      internalID: 7400054
+      firstFrame: 0
+      lastFrame: 113
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Guxiaohua_Faint_loop
+      takeName: Guxiaohua_Faint_loop
+      internalID: 7400056
+      firstFrame: 0
+      lastFrame: 113
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Guxiaohua_ShowPose
+      takeName: Guxiaohua_ShowPose
+      internalID: 7400058
+      firstFrame: 0
+      lastFrame: 113
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Guxiaohua_Born
+      takeName: Guxiaohua_Born
+      internalID: 7400060
+      firstFrame: 0
+      lastFrame: 113
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Guxiaohua_Win
+      takeName: Guxiaohua_Win
+      internalID: 7400062
+      firstFrame: 0
+      lastFrame: 113
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Guxiaohua_Idle_01
+      takeName: Guxiaohua_Idle_01
+      internalID: 7400064
+      firstFrame: 0
+      lastFrame: 113
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Guxiaohua_Idle_02
+      takeName: Guxiaohua_Idle_02
+      internalID: 7400066
+      firstFrame: 0
+      lastFrame: 113
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Guxiaohua_DodgeFront
+      takeName: Guxiaohua_DodgeFront
+      internalID: 7400068
+      firstFrame: 0
+      lastFrame: 113
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Guxiaohua_SkillAttack_00_01
+      takeName: Guxiaohua_SkillAttack_00_01
+      internalID: 7400070
+      firstFrame: 0
+      lastFrame: 113
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
